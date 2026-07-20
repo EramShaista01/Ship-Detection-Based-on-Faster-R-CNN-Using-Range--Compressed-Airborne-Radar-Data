@@ -1,0 +1,2 @@
+# Ship-Detection-Based-on-Faster-R-CNN-Using-Range--Compressed-Airborne-Radar-Data
+Two object-oriented ship detectors based on Faster R-CNN are introduced to overcome the limitations of CFAR algorithms in near real-time radar monitoring. Operating on X-band airborne range-compressed data in both time and Doppler domains, the models deliver high recall for dense, multi-target scenarios in complex inshore environments.
